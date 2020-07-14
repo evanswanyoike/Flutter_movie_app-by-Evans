@@ -1,3 +1,7 @@
+Simple movie app created in flutter
+
+
+
 # movieapp
 
 A new Flutter application.
